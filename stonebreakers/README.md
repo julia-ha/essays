@@ -10,3 +10,11 @@ The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of 
 The painting was destroyed during World War II, along with 154 other pictures, when a transport vehicle moving the pictures to the castle of Königstein, near Dresden, was bombed by Allied forces in February 1945.
 
 .ve-media wc:Gustave_Courbet_-_The_Stonebreakers_-_WGA05457.jpg
+
+## Dickens Historical Map Overlay
+
+The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of realism the subject matter addressed a scene of everyday life. This painting was intended to show the hard labor that poor citizens experienced. 
+
+.ve-map
+    - Q507517
+    - 8d73d175d66162c5
