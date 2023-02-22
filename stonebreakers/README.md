@@ -17,4 +17,4 @@ The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of 
 
 .ve-map
     - Q507517
-    - 8d73d175d66162c5
+    - allmaps=8d73d175d66162c5
