@@ -15,6 +15,6 @@ The painting was destroyed during World War II, along with 154 other pictures, w
 
 The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of realism the subject matter addressed a scene of everyday life. This painting was intended to show the hard labor that poor citizens experienced. 
 
-.ve-map
-    - Q507517 10
+.ve-map Q507517 15
     - allmaps=911e307b5cecc423
+   
