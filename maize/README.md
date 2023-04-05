@@ -1,15 +1,10 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config
-	title="Maize: Sacred Plant, Global Commodity"
-       source-image="https://github.com/JSTOR-Labs/plant-humanities/blob/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg?raw=true"
-       banner="https://github.com/JSTOR-Labs/plant-humanities/blob/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg?raw=true"
-       layout="vtl"
-       author="Julia Fine"
-       description=“Add.”>
+
+       
+.ve-header "Maize: Sacred Plant, Global Commodity" https://github.com/JSTOR-Labs/plant-humanities/blob/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg?raw=true
   
 The year was 2014, and many Guatemalans were incensed. With a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties,” or, as it was popularly known, the “<span eid="Q207983">Monsanto</span> Law.” The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (US$130 to $1,300).”[^ref1]
-<param ve-map title="During the 2014 protests against Monsanto’s Law, protestors in Guatemala blocked traffic along this major roadway." center="15.0981244, -90.316436" zoom="7">
-<param ve-map-layer geojson active title="The Pan-American Highway in Guatemala." url="/geojson/roadguatemala2.json">
+.ve-map 15.0981244, -90.316436 7
+    - 15.0981244, -90.316436 "During the 2014 protests against Monsanto’s Law, protestors in Guatemala blocked traffic along this major roadway."
 {#paragraph1}
 
 While the law sought to regulate the use of particular <span eid="Q11575">maize</span> seeds engineered by Monsanto to withstand the company’s <span eid="Q60741370">glyphosate-based herbicide</span>, <span eid="Q905161">Roundup</span>, the Guatemalan public saw several problems with this protection for privatized seeds, or <span eid="Q182726">genetically modified</span> seeds subject to a patent or copyright. This included anticipating that the law would increase farmer dependence on big agribusiness. Opposition to the law swelled, bringing together, according to cultural anthropologist Liza Grandia, a motley crew of protestors, including “peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies.”[^ref2]
