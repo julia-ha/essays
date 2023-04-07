@@ -26,9 +26,8 @@ The reliance of many human societies on maize, the “[most dominant and product
 .ve-media https://iiif.juncture-digital.org/manifest/a6f00a6481035c93eae7b6401267100956a1ef5940a2e8f73e510f77c85c5f4d right
 
 Indigenous groups in what is now southwestern Mexico played a major role in the domestication process and subsequent plant transfer. Recent <span eid="Q171184">phylogenetic analysis</span> has shown that maize most likely arose from a single domestication event, which probably occurred in the Rio Balsas (Balsas River) Valley around 9,000 years ago.[^ref4] Agrobiodiversity researchers have noted that “much of the evolution of maize during domestication may have been gradual, and there is evidence of increases in cob size over the first 2,000 years of selection.”[^ref5] An incredible diversity in terms of types of maize occurred after its initial domestication. Many scholars describe maize as a “mirror” to its cultivators, and different Indigenous groups domesticated and cultivated various types of maize depending on “environmental and also [on] social and cultural factors,” suggesting the role communities played in developing different types of maize most suited to their needs.[^ref6]
-<param1 ve-map title="The Origin of Maize." center="17.944277, -100.514509" zoom="6">
-<param1 ve-map-layer geojson active title="The Origin of Maize." url="/geojson/BalsasRiver.json">
-{#paragraph6}
+.ve-map 17.944277,-100.514509 6 left
+    -geojson=https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/geojson/BalsasRiver.json layer="The Origin of Maize"
 
 By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/#b) humans had dispersed maize from the Rio Balsas region into South America as a partial domesticate, though, as scholars have noted, there were “multiple waves of dispersal” of maize into South America. There, the crop underwent “secondary improvement in the southwestern Amazon before diversifying across the continent. Humans then dispersed this domesticated variety back into Central America and to the north, demonstrating the “clear evidence of two-way movements of plants and people lasting millennia between Central and South America.”[^ref7] Maize is therefore a notable example of the mobility of plants in relation to humans.
 <param1 ve-map
