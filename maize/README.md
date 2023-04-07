@@ -1,17 +1,16 @@
+.ve-header "Maize: Sacred Plant, Global Commodity" https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg
 
-       
-.ve-header "Maize: Sacred Plant, Global Commodity" https://github.com/JSTOR-Labs/plant-humanities/blob/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg?raw=true
   
 The year was 2014, and many Guatemalans were incensed. With a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties,” or, as it was popularly known, the “<span eid="Q207983">Monsanto</span> Law.” The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (US$130 to $1,300).”[^ref1]
-.ve-map 15.0981244, -90.316436 7
+.ve-map 15.0981244, -90.316436 7 right
     - 15.0981244, -90.316436 "During the 2014 protests against Monsanto’s Law, protestors in Guatemala blocked traffic along this major roadway."
-{#paragraph1}
+
 
 While the law sought to regulate the use of particular <span eid="Q11575">maize</span> seeds engineered by Monsanto to withstand the company’s <span eid="Q60741370">glyphosate-based herbicide</span>, <span eid="Q905161">Roundup</span>, the Guatemalan public saw several problems with this protection for privatized seeds, or <span eid="Q182726">genetically modified</span> seeds subject to a patent or copyright. This included anticipating that the law would increase farmer dependence on big agribusiness. Opposition to the law swelled, bringing together, according to cultural anthropologist Liza Grandia, a motley crew of protestors, including “peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies.”[^ref2]
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/f684cc267a6080045e7eac5aeeb599b3de8133bf870ff74b7096f2a245fe4af4">
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/9c26fd58a60bcabade563be22d9bdfa930094f78efe1ae0e23fa5282183f9427">
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/91a2de2fd0637cb81778cee01643c63aae34406c3d521d7f6cb8b121398c1f19">
-{#paragraph2}
+.ve-media grid
+    - https://iiif.juncture-digital.org/manifest/f684cc267a6080045e7eac5aeeb599b3de8133bf870ff74b7096f2a245fe4af4
+    - https://iiif.juncture-digital.org/manifest/9c26fd58a60bcabade563be22d9bdfa930094f78efe1ae0e23fa5282183f9427
+    - https://iiif.juncture-digital.org/manifest/91a2de2fd0637cb81778cee01643c63aae34406c3d521d7f6cb8b121398c1f19
 
 Why did this new policy about maize inspire such strong reactions? Since its <span eid="Q11395">domestication</span> over 9,000 years ago, achieved through the ingenuity and acumen of Mesoamerican communities, maize has provided necessary sustenance. In turn, these communities constructed their societies, cosmologies, and cultures around the plant. The Monsanto Law would dissolve this sacred symbiosis between local communities and maize. The history of maize thus demonstrates the complexities of human relationships to plants, which resist categorization solely as units to be bought, sold, or patented under capitalism.
 <param ve-compare sync region="full" manifest="https://iiif.juncture-digital.org/manifest/4b8fbde277c01f1f3576f33022d93e20c28c9a0c8fb957ad124d6b93bb3dee54">
@@ -20,12 +19,10 @@ Why did this new policy about maize inspire such strong reactions? Since its <sp
 
 ### A Kernel of Science
 What is maize? How did it develop? These questions may seem simple, particularly given the ubiquity of corn-based products, but the large body of scholarship on the crop shows the answers to be anything but straightforward. Maize, in taxonomic parlance <span eid="Q11575">_Zea mays_</span> L., is a cereal grain consisting of a <span data-click-image-zoomto="663,1166,773,707">stalk</span>, <span data-click-image-zoomto="712,400,773,707">tassels of pollen</span>, and <span data-click-image-zoomto="298,745,773,707">ears filled with cobs of kernels</span> (averaging 800 kernels spread across 16 rows).
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/5b7d8bae3377db006af981e652af3837b8b59fccf6d1aaaac3710df10466598d">
-{#paragraph4}
+.ve-media https://iiif.juncture-digital.org/manifest/5b7d8bae3377db006af981e652af3837b8b59fccf6d1aaaac3710df10466598d left
 
 The reliance of many human societies on maize, the “[most dominant and productive crop”](https://futureoffood.org/insights/the-global-importance-of-maize-diversity/#:~:text=As%20the%20world's%20most%20dominant,%2C%20sweeteners%2C%20starch%2C%20and%20for) for their survival, is well known. Less understood is the plant’s reliance on humans for its survival. Maize most likely was domesticated from <span eid="Q7701197">teosinte</span>, a grass with tassels and several small-clustered ears. However, there are clear differences between modern-day maize and teosinte: while tesonite is made up of 6–12 kernels held in two rows surrounded by a protective shell, maize proffers a cob with approximately 20 rows of kernels without a hard outer shell.[^ref3] These differences are so profound that, as [one article in _PNAS_](https://doi.org/10.1073/pnas.0901122106) notes, “19th-century botanists failed to recognize the close relationship between these plants, placing teosinte in its own genus, [_Euchlaena_.](https://www.ipni.org/n/18060-1)” Present-day scholars have shown that maize was domesticated from teosinte through humans selecting for a larger ear size and more kernels.
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/a6f00a6481035c93eae7b6401267100956a1ef5940a2e8f73e510f77c85c5f4d">
-{#paragraph5}
+.ve-media https://iiif.juncture-digital.org/manifest/a6f00a6481035c93eae7b6401267100956a1ef5940a2e8f73e510f77c85c5f4d right
 
 Indigenous groups in what is now southwestern Mexico played a major role in the domestication process and subsequent plant transfer. Recent <span eid="Q171184">phylogenetic analysis</span> has shown that maize most likely arose from a single domestication event, which probably occurred in the Rio Balsas (Balsas River) Valley around 9,000 years ago.[^ref4] Agrobiodiversity researchers have noted that “much of the evolution of maize during domestication may have been gradual, and there is evidence of increases in cob size over the first 2,000 years of selection.”[^ref5] An incredible diversity in terms of types of maize occurred after its initial domestication. Many scholars describe maize as a “mirror” to its cultivators, and different Indigenous groups domesticated and cultivated various types of maize depending on “environmental and also [on] social and cultural factors,” suggesting the role communities played in developing different types of maize most suited to their needs.[^ref6]
 <param ve-map title="The Origin of Maize." center="17.944277, -100.514509" zoom="6">
@@ -121,21 +118,15 @@ Maize’s cultural, political, and economic significance persists in Central Ame
 As a result of the forces of globalization and industrialization, threats to maize diversity are more acute than ever. Since the 1940s, scientists have warned that “the whole genetic pattern of _Zea mays_... has been catastrophically overhauled.”[^ref23] The reduction of maize’s genetic diversity has been exacerbated since the 1990s, when Monsanto began to produce its transgenic maize products. Further, the passage of <span eid="Q181574">NAFTA</span> in 1994 meant that U.S. maize could be sold at incredibly cheap prices in Mexico. “The sheer amount of contamination from a very homogenous source drives diverse populations into narrow genetic backgrounds,” argued Ignacio Chapela, an ecologist at University of California, Berkeley.[^ref24] 	
 <param ve-map title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" center="44.747810952859204, -13.410236017649687" zoom="2">
 <param ve-map-layer geojson active title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" url="/geojson/maizegmo.json">
-{#paragraph16}       
 
 This contamination has alarmed scientists, farmers, and activists around the world for a variety of reasons. <span eid="Q188590">Zapatistas</span> fighting for autonomy in Mexico argued that transgenic industrial maize threatened to overwhelm local varieties and thereby make Central American economies reliant on U.S. corporations. Since the 1970s, agronomists have been concerned about the potential loss of crop diversity and the catastrophic consequences for global food security. And local farmers and community members worry about relying on global agribusiness for their main source of sustenance, as well as the potential disruption to their moral economies and local cosmologies.[^ref25]
-<param ve-iframe src="https://ourworldindata.org/grapher/maize-yields?tab=chart&country=GTM~MEX~BLZ~USA">
-{#paragraph17}
+.ve-iframe https://ourworldindata.org/grapher/maize-yields?tab=chart&country=GTM~MEX~BLZ~USA
 
 The 2014 protests in Guatemala are not the only example of dissent over transgenic maize. Historian Helen Anne Curry describes local movements in Mexico that, in the early 2000s, declared “sin maíz no hay país” (“without maize there is no country”).[^ref26] According to Curry, Zapatista rebels “took matters into their own hands” by “developing locally managed preservation measures ...that connected Indigenous peoples with scientists and activists.”[^ref27] And, as reported by Timothy Wise, from the Institute for Agriculture and Trade Policy, Mexican president <span eid="Q318508">Andrés Manuel López Obrador</span> promised to gradually eliminate the use of <span eid="Q407232">glyphosate</span> and the production of GMO maize.[^ref28]
-<param ve-knightlab-timeline source="1myU459GVMpHM4947aUaReTHcQncTcwrbtbOGTEo4hBA" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
-{#paragraph19}
+.ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1myU459GVMpHM4947aUaReTHcQncTcwrbtbOGTEo4hBA&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=100%
 
 While some protests against Monsanto’s promotion of transgenic maize have been successful, Liza Grandia has observed that it is “hard to predict whether [events like] the victory over Monsanto in Guatemala [were] a once- or twice-in-a-generation occurrence or a signal of expanded democratic unrest.”[^ref29] What is clear, however, are the perils of detaching maize, a complex crop of global significance, from the rich cultural and biological context of its original domestication and the sophisticated practices of Indigenous agriculture and land management. Maize, as a sacred crop, is more than mere fodder for scientific development: rather, it is the lifeblood of many communities.[^ref30]
-<param ve-image
-      label="The many meanings of maize. L to R: Zea mays specimen, JSTOR Global Plants; Plaque Pendant of Maize Deity, Maya, Late Classic, 650/750-900 CE, 5.4 cm x 4.76 cm x 0.64 cm, jadeite, Dumbarton Oaks, public domain; Dorothea Lange, Rehabilitated small farmer in field of milo maize, Tulare County, California. Library of Congress, no known restrictions." 
-       fit="fill"
-       url="maizemeanings2.jpg">
+.ve-media https://github.com/JSTOR-Labs/plant-humanities/blob/5b043dbdee2ff70cd6cbd267b8e9a8e4141183d1/maize/maizemeanings2.jpg right
 
 ### References
 [^ref1]: Rebecca Griest, “Guatemalan Protests against Monsanto Law (2014),” Database, Global Nonviolent Action Database, February 10, 2015. [https://nvdatabase.swarthmore.edu/content/guatemalan-protests-against-monsanto-law-2014](https://nvdatabase.swarthmore.edu/content/guatemalan-protests-against-monsanto-law-2014) See also: Liza Grandia, “Sacred Maize against a Legal Maze: The Diversity of Resistance to Guatemala’s ‘Monsanto Law,’” _Journal for the Study of Religion, Nature and Culture_ 11, no. 1 (July 4, 2017): 57. 
