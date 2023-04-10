@@ -28,8 +28,8 @@ Indigenous groups in what is now southwestern Mexico played a major role in the 
     - geojson=https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/geojson/BalsasRiver.json layer="The Origin of Maize"
 
 By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/#b) humans had dispersed maize from the Rio Balsas region into South America as a partial domesticate, though, as scholars have noted, there were “multiple waves of dispersal” of maize into South America. There, the crop underwent “secondary improvement in the southwestern Amazon before diversifying across the continent. Humans then dispersed this domesticated variety back into Central America and to the north, demonstrating the “clear evidence of two-way movements of plants and people lasting millennia between Central and South America.”[^ref7] Maize is therefore a notable example of the mobility of plants in relation to humans.
-.ve-map 12.684407961343284,-76.70109703556372 3
-    -geojson=https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/geojson/maizespreadtime.json
+.ve-map 12.68440,-76.70109 3 right
+    - geojson=https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/geojson/maizespreadtime.json
 
 <param1 ve-map
 	title="Approximate timing and location of maize domestication."
@@ -105,7 +105,7 @@ Maize’s cultural, political, and economic significance persists in Central Ame
 
 ### Monsanto: Rise and Resistance
 As a result of the forces of globalization and industrialization, threats to maize diversity are more acute than ever. Since the 1940s, scientists have warned that “the whole genetic pattern of _Zea mays_... has been catastrophically overhauled.”[^ref23] The reduction of maize’s genetic diversity has been exacerbated since the 1990s, when Monsanto began to produce its transgenic maize products. Further, the passage of <span eid="Q181574">NAFTA</span> in 1994 meant that U.S. maize could be sold at incredibly cheap prices in Mexico. “The sheer amount of contamination from a very homogenous source drives diverse populations into narrow genetic backgrounds,” argued Ignacio Chapela, an ecologist at University of California, Berkeley.[^ref24] 	
-.ve-map 44.747810952859204,-13.410236017649687 2
+.ve-map 44.747810952859204,-13.410236017649687 2 right
     - geojson=https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/geojson/maizegmo.json
 <param1 ve-map title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" center="44.747810952859204, -13.410236017649687" zoom="2">
 <param ve-map-layer geojson active title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" url="/geojson/maizegmo.json">
