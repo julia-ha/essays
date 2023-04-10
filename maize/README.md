@@ -12,9 +12,9 @@ While the law sought to regulate the use of particular <span eid="Q11575">maize<
     - https://iiif.juncture-digital.org/manifest/91a2de2fd0637cb81778cee01643c63aae34406c3d521d7f6cb8b121398c1f19
 
 Why did this new policy about maize inspire such strong reactions? Since its <span eid="Q11395">domestication</span> over 9,000 years ago, achieved through the ingenuity and acumen of Mesoamerican communities, maize has provided necessary sustenance. In turn, these communities constructed their societies, cosmologies, and cultures around the plant. The Monsanto Law would dissolve this sacred symbiosis between local communities and maize. The history of maize thus demonstrates the complexities of human relationships to plants, which resist categorization solely as units to be bought, sold, or patented under capitalism.
-<param1 ve-compare sync region="full" manifest="https://iiif.juncture-digital.org/manifest/4b8fbde277c01f1f3576f33022d93e20c28c9a0c8fb957ad124d6b93bb3dee54">
-<param1 ve-compare manifest="https://iiif.juncture-digital.org/manifest/46768f98b59f62e9bb4a5629005fa630a75e3db81f2cfd3d98162ee7a1a9a057">
-{#paragraph3}
+.ve-media
+    - https://iiif.juncture-digital.org/manifest/4b8fbde277c01f1f3576f33022d93e20c28c9a0c8fb957ad124d6b93bb3dee54
+    - https://iiif.juncture-digital.org/manifest/46768f98b59f62e9bb4a5629005fa630a75e3db81f2cfd3d98162ee7a1a9a057
 
 ### A Kernel of Science
 What is maize? How did it develop? These questions may seem simple, particularly given the ubiquity of corn-based products, but the large body of scholarship on the crop shows the answers to be anything but straightforward. Maize, in taxonomic parlance <span eid="Q11575">_Zea mays_</span> L., is a cereal grain consisting of a <span data-click-image-zoomto="663,1166,773,707">stalk</span>, <span data-click-image-zoomto="712,400,773,707">tassels of pollen</span>, and <span data-click-image-zoomto="298,745,773,707">ears filled with cobs of kernels</span> (averaging 800 kernels spread across 16 rows).
