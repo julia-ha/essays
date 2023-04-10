@@ -28,6 +28,9 @@ Indigenous groups in what is now southwestern Mexico played a major role in the 
     - geojson=https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/geojson/BalsasRiver.json layer="The Origin of Maize"
 
 By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/#b) humans had dispersed maize from the Rio Balsas region into South America as a partial domesticate, though, as scholars have noted, there were “multiple waves of dispersal” of maize into South America. There, the crop underwent “secondary improvement in the southwestern Amazon before diversifying across the continent. Humans then dispersed this domesticated variety back into Central America and to the north, demonstrating the “clear evidence of two-way movements of plants and people lasting millennia between Central and South America.”[^ref7] Maize is therefore a notable example of the mobility of plants in relation to humans.
+.ve-map 12.684407961343284,-76.70109703556372 3
+    -geojson=https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/geojson/maizespreadtime.json
+
 <param1 ve-map
 	title="Approximate timing and location of maize domestication."
 	center="12.684407961343284, -76.70109703556372"
@@ -41,7 +44,7 @@ By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduct
 	fill="#5C6609"
 	auto-play="true">
 <param1 ve-map-layer geojson url="maizespreadtime.json">
-{#paragraph6}
+
 
 In addition to domesticating maize and dispersing it throughout South America and back toward Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds. The scientific history of maize thus reveals the central and active role early <span eid="Q13109203"> Mesoamericans</span> played in its domestication through making conscious decisions about the cultivation process.
 .ve-media https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:61:5:wdl_10615:MedPalat218_01_0643/0,70,5642,7829/1024,/0/default.jpg "Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the Florentine Codex, we see images of how Nahua farmers cultivated maize using a wooden tool for digging. Bernardino De Sahagún, Book IV, Historia general de las cosas de Nueva España (Florentine Codex), 1577."
@@ -72,12 +75,12 @@ To obtain the utmost nutrients from maize, Mesoamericans practiced a process cal
 {#paragraph8}
 
 The nutritional importance of maize cannot be separated from its cultural significance. In the <span eid="Q220264">_Popol Vuh_</span>, which recounts the Maya creation story, humans were quite literally molded out of maize by the deities. Scholars have long recognized motifs of maize in <span eid="Q135364">Olmec</span> and Maya iconography. However, in the past four decades, scholars have begun to identify a specific “<span eid="Q12744013">Maize God</span>” that has an “<span data-click-image-zoomto="1273,834,669,591">elongated, tonsured head</span> [that] mimics the long tasseled cob,” and often has “maize grain ... infixed into his head,” among other qualities.[^ref11] While there is much about the Maize God that remains to be explained in the scholarly literature, it is clear “that the corn cycle was the central metaphor of life and death for the Maya and the nucleus around which much of their religiosity was formed.”[^ref12]
+.ve-media https://iiif-v2.visual-essays.app/manifest/a82a69fb91004db10c73bd058ab877c74dcdbbd3012669465861459ad43851d3
 <param1 title="tonsure" eid="Q273761" aliases="tonsured"> 
 <param1 ve-image
        label="Bowl with Anthropomorphic Cacao Trees from Early Classic Maya Period. Scholars have shown the central figure represents the Maize God as an embodied cacao tree. See: Simon Martin, “Cacao in Ancient Maya Religion: First Fruit from the Maize Tree and Other Tales from the Underworld,” in Chocolate in Mesoamerica, ed. Cameron McNeil (University Press of Florida, 2009), 154–83."
        fit="contain"
        manifest="https://iiif-v2.visual-essays.app/manifest/a82a69fb91004db10c73bd058ab877c74dcdbbd3012669465861459ad43851d3">
-{#paragraph9}
 
 For the Maya, maize was and is more than simply a metaphor and powerful image in the Mesoamerican visual lexicon. Seventeenth-century records reveal how in highland Guatemala, upon the birth of a son, the Maya community would burn the blood of the umbilical cord. Then, they would “pas[s] an ear of maize through the smoke,” which would subsequently be planted in the maize field. Ethnographers have recorded that “parents used the maize from this small patch of land to feed the child ‘until he reached the age when he could plant for himself, saying that thus he not only ate by the sweat of his brow, but of his own blood as well.’”[^ref13] In certain regions, mothers “place an ear of maize into the palm of their newborns, and eat only dishes made from maize while breast-feeding to ensure that the child grows ‘true flesh.’”[^ref14]  Maize, for Maya people, thus represents more than both calories or symbol: it is a sacred plant from which all life grows. 
 .ve-media https://iiif.juncture-digital.org/manifest/12d510f8ca7bd9f75c12ce847a6bd112c0928be873f2589c797ff848dc90a9f1 right
