@@ -66,7 +66,7 @@ After its domestication, maize quickly became an important crop for Mesoamerican
 .ve-media https://iiif.juncture-digital.org/manifest/a511b2089b16f0d7e5c75dff16f244458523cce972ea5de504d34ad6d6318a98 left
 
 To obtain the utmost nutrients from maize, Mesoamericans practiced a process called ==nixtamalization=={Q3052219}, a word derived from the ==Nahuatl=={Q13300} terms for lime and maize dough. While, as scholars have noted, the “origin and development [of the nixtamalization process] remain archeologically unclear,” the lime treatment of maize has been used in Mesoamerica for at least the past 3,000 years to produce a “reduction of the labor required to grind maize, by breaking down the kernel’s durable external pericarp or shell; and enhanced nutrition, by releasing niacin and amino acids inherent in the maize and contributing additional calcium from the lime.”[^ref10]  While nixtamalization reduces the effort of grinding maize, it was still very labor intensive for Mesoamerican women, who traditionally grind maize kernels into ==masa=={Q1006089}, or dough, over a ==metate=={Q1854307} or grinding stone. Further, maize is not only used to produce masa; Mesoamerican peoples make use of the maize stalks to produce maize beer, referred to as tesqüino, in certain parts of Mesoamerica and ==chicha=={Q516592} in others.
-.ve media grid
+.ve-media grid
     - https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json"https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json
     - https://iiif.juncture-digital.org/manifest/36a7f60ef0720801d915c2ec7a86eb1fd89d3d403525fd38acc8be9a7cfdc13a
 <param1 ve-image
