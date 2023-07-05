@@ -17,4 +17,9 @@ The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of 
 
 .ve-map Q507517 15
     - allmaps=911e307b5cecc423
+    
+## Image Annotation example
+Rufous-collared sparrow (Zonotrichia capensis costaricensis), in Mount Totumas cloud forest, in Panama. The male is famous for its diverse vocalizations. There are over 25 different subspecies across Central and South America and the many subspecies have developed distinct vocal dialects.  
+
+.ve-media wc:Rufous-collared_sparrow_(Zonotrichia_capensis_costaricensis)_2.jpg
    
