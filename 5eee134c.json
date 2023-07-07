@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#a2e95a88-88c2-4e2e-8a7d-51ad7f51a442"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Sample Annotation",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Manihot_esculenta_dsc07325.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1392.478515625,74.97576141357422,269.727783203125,245.70508575439453"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3cbec35b-0b38-47ab-a99c-0ee02ad3ee59"
   }
 ]
