@@ -31,21 +31,6 @@ By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduct
 .ve-map 12.68440,-76.70109 3 right
     - geojson=https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/geojson/maizespreadtime.json
 
-<param1 ve-map
-	title="Approximate timing and location of maize domestication."
-	center="12.684407961343284, -76.70109703556372"
-	zoom="3"
-	time-dimension
-	time-interval="-8700/900"
-	duration="P10000Y"
-	max-zoom="5"
-	date-format="YYYY"
-	fps="3"
-	fill="#5C6609"
-	auto-play="true">
-<param1 ve-map-layer geojson url="maizespreadtime.json">
-
-
 In addition to domesticating maize and dispersing it throughout South America and back toward Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds. The scientific history of maize thus reveals the central and active role early ==Mesoamericans=={Q13109203} played in its domestication through making conscious decisions about the cultivation process.
 .ve-media https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:61:5:wdl_10615:MedPalat218_01_0643/0,70,5642,7829/1024,/0/default.jpg "Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the Florentine Codex, we see images of how Nahua farmers cultivated maize using a wooden tool for digging. Bernardino De Sahagún, Book IV, Historia general de las cosas de Nueva España (Florentine Codex), 1577."
 <param1 ve-image label="Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the Florentine Codex, we see images of how Nahua farmers cultivated maize using a wooden tool for digging. Bernardino De Sahagún, Book IV, Historia general de las cosas de Nueva España (Florentine Codex), 1577."
@@ -69,22 +54,10 @@ To obtain the utmost nutrients from maize, Mesoamericans practiced a process cal
 .ve-media grid
     - https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json"https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json seq=129
     - https://iiif.juncture-digital.org/manifest/36a7f60ef0720801d915c2ec7a86eb1fd89d3d403525fd38acc8be9a7cfdc13a
-    - manifest/36a7f60ef0720801d915c2ec7a86eb1fd89d3d403525fd38acc8be9a
-<param1 ve-image
-       label="The process of nixtamalizing corn using a metate, as represented in the Códice Mendoza. Códice Mendoza, 1541–1650, Bodleian Libraries, University of Oxford."
-       region="3530,4341,1787,1476" seq="129" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
-<param1 ve-image
-       fit="cover"
-       manifest="https://iiif.juncture-digital.org/manifest/36a7f60ef0720801d915c2ec7a86eb1fd89d3d403525fd38acc8be9a7cfdc13a"> 
 {#paragraph8}
 
 The nutritional importance of maize cannot be separated from its cultural significance. In the ==_Popol Vuh_=={Q220264}, which recounts the Maya creation story, humans were quite literally molded out of maize by the deities. Scholars have long recognized motifs of maize in ==Olmec=={Q135364} and Maya iconography. However, in the past four decades, scholars have begun to identify a specific “==Maize God=={Q12744013}” that has an “==elongated, tonsured head=={1273,834,669,591} [that] mimics the long tasseled cob,” and often has “maize grain ... infixed into his head,” among other qualities.[^ref11] While there is much about the Maize God that remains to be explained in the scholarly literature, it is clear “that the corn cycle was the central metaphor of life and death for the Maya and the nucleus around which much of their religiosity was formed.”[^ref12]
-.ve-media https://iiif.juncture-digital.org/manifest/a82a69fb91004db10c73bd058ab877c74dcdbbd3012669465861459ad43851d3
-<param1 title="tonsure" eid="Q273761" aliases="tonsured"> 
-<param1 ve-image
-       label="Bowl with Anthropomorphic Cacao Trees from Early Classic Maya Period. Scholars have shown the central figure represents the Maize God as an embodied cacao tree. See: Simon Martin, “Cacao in Ancient Maya Religion: First Fruit from the Maize Tree and Other Tales from the Underworld,” in Chocolate in Mesoamerica, ed. Cameron McNeil (University Press of Florida, 2009), 154–83."
-       fit="contain"
-       manifest="https://iiif-v2.visual-essays.app/manifest/a82a69fb91004db10c73bd058ab877c74dcdbbd3012669465861459ad43851d3">
+.ve-media https://iiif.juncture-digital.org/manifest/a82a69fb91004db10c73bd058ab877c74dcdbbd3012669465861459ad43851d3 caption="Bowl with Anthropomorphic Cacao Trees from Early Classic Maya Period. Scholars have shown the central figure represents the Maize God as an embodied cacao tree. See: Simon Martin, “Cacao in Ancient Maya Religion: First Fruit from the Maize Tree and Other Tales from the Underworld,” in Chocolate in Mesoamerica, ed. Cameron McNeil (University Press of Florida, 2009), 154–83."
 
 For the Maya, maize was and is more than simply a metaphor and powerful image in the Mesoamerican visual lexicon. Seventeenth-century records reveal how in highland Guatemala, upon the birth of a son, the Maya community would burn the blood of the umbilical cord. Then, they would “pas[s] an ear of maize through the smoke,” which would subsequently be planted in the maize field. Ethnographers have recorded that “parents used the maize from this small patch of land to feed the child ‘until he reached the age when he could plant for himself, saying that thus he not only ate by the sweat of his brow, but of his own blood as well.’”[^ref13] In certain regions, mothers “place an ear of maize into the palm of their newborns, and eat only dishes made from maize while breast-feeding to ensure that the child grows ‘true flesh.’”[^ref14]  Maize, for Maya people, thus represents more than both calories or symbol: it is a sacred plant from which all life grows. 
 .ve-media https://iiif.juncture-digital.org/manifest/12d510f8ca7bd9f75c12ce847a6bd112c0928be873f2589c797ff848dc90a9f1 right
@@ -94,7 +67,6 @@ During the colonial era, Maya beliefs in maize as a sacred plant clashed with Eu
 .ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qXFTF6KY_htcJqVlZjSM_qZJvOyKdxXRaNGxkxbbluo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=100% right
 
 From the nineteenth century onward, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential as a domestic and export crop. In the early twentieth century, scientists from the United States and Europe traveled to regions in Mexico, Peru, and Guatemala, among others, to identify unique “landraces,” or locally adapted domesticates, of maize. Historian of science Helen Curry has detailed how scientists attempted to transpose putative science of the human race onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”[^ref18] These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.”[^ref19] 
-<param1 ve-plant-specimen eid="Q11575" max="3">
  {#paragraph12}
  
 Bolstered in part by this racialized understanding of maize, scientists around the world began to breed maize for preferred traits, namely, quick growth and high productivity. In the 1940s, the ==Rockefeller Foundation=={Q862034} began to partner with the Mexican government to increase production rates of staple crops, including maize. These attempts to turn maize into a scientific commodity attracted both local and global concern: one American geographer noted that this endeavor proffered the potential “disastrous destruction of local genes.... Mexican agriculture cannot be pointed toward standardization on a few commercial types without upsetting native economy and culture hopelessly.”[^ref20] As one Mexican scientist detailed, some communities refused to sell types of maize used in rituals, no matter what price was offered.[^ref21]
@@ -111,8 +83,6 @@ Maize’s cultural, political, and economic significance persists in Central Ame
 As a result of the forces of globalization and industrialization, threats to maize diversity are more acute than ever. Since the 1940s, scientists have warned that “the whole genetic pattern of _Zea mays_... has been catastrophically overhauled.”[^ref23] The reduction of maize’s genetic diversity has been exacerbated since the 1990s, when Monsanto began to produce its transgenic maize products. Further, the passage of ==NAFTA=={Q181574} in 1994 meant that U.S. maize could be sold at incredibly cheap prices in Mexico. “The sheer amount of contamination from a very homogenous source drives diverse populations into narrow genetic backgrounds,” argued Ignacio Chapela, an ecologist at University of California, Berkeley.[^ref24] 	
 .ve-map 44.747810952859204,-13.410236017649687 2 right
     - geojson=https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/geojson/maizegmo.json
-<param1 ve-map title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" center="44.747810952859204, -13.410236017649687" zoom="2">
-<param ve-map-layer geojson active title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" url="/geojson/maizegmo.json">
 
 This contamination has alarmed scientists, farmers, and activists around the world for a variety of reasons. ==Zapatistas=={Q188590} fighting for autonomy in Mexico argued that transgenic industrial maize threatened to overwhelm local varieties and thereby make Central American economies reliant on U.S. corporations. Since the 1970s, agronomists have been concerned about the potential loss of crop diversity and the catastrophic consequences for global food security. And local farmers and community members worry about relying on global agribusiness for their main source of sustenance, as well as the potential disruption to their moral economies and local cosmologies.[^ref25]
 .ve-iframe https://ourworldindata.org/grapher/maize-yields?tab=chart&country=GTM~MEX~BLZ~USA
