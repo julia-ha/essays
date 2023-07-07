@@ -4,39 +4,19 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Root",
+        "value": "sample text",
         "purpose": "commenting"
       }
     ],
     "target": {
-      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Manihot_esculenta_dsc07325.jpg",
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/5eee134c40b7649d7c12e5233a0148f10e74f5b67013c98443a45867246061dd",
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:637.0719604492188,816.6809692382812,446.73858642578125,256.49542236328125"
+        "value": "xywh=pixel:928.046142578125,421.4754638671875,157.73486328125,196.3505859375"
       }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#a2e95a88-88c2-4e2e-8a7d-51ad7f51a442"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "Sample Annotation",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Manihot_esculenta_dsc07325.jpg",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:1392.478515625,74.97576141357422,269.727783203125,245.70508575439453"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#3cbec35b-0b38-47ab-a99c-0ee02ad3ee59"
+    "id": "#521b7bda-2479-4d0d-b2e5-710cb3bef70f"
   }
 ]
