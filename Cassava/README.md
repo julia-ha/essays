@@ -1,11 +1,11 @@
 <param ve-config 
-  title="Amalfi" author="Ron" layout="vertical"
-  banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amalfi_panorama_I.jpg/1280px-Amalfi_panorama_I.jpg">
+  title="Cassava" author="Julia" layout="vertical"
+  banner="https://upload.wikimedia.org/wikipedia/commons/5/52/Manihot_esculenta_-_%27Cassava%27.jpg">
 # Cassava
 
 ## Header 1
-Some text here
+La mandioca: uno de los productos principales de San José de los Arroyos
 <param ve-image 
-  url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amalfi,_Italy_(21078177390).jpg"
-  label="Amalfi, Italy" fit="cover"
-  license="CC BY" attribution="Kārlis Dambrāns from Latvia">
+  url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Manihot_esculenta_dsc07325.jpg"
+  label="Cassava Pods" fit="cover"
+  license="CC BY" attribution="Wikimedia Commons">
