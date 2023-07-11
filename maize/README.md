@@ -33,8 +33,7 @@ By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduct
 
 In addition to domesticating maize and dispersing it throughout South America and back toward Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds. The scientific history of maize thus reveals the central and active role early ==Mesoamericans=={Q13109203} played in its domestication through making conscious decisions about the cultivation process.
 .ve-media
-    - https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:61:5:wdl_10615:MedPalat218_01_0643/0,70,5642,7829/1024,/0/default.jpg
-    - https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:61:5:wdl_10615:MedPalat218_01_0643/0,70,5642,7829/1024,/0/default.jpg
+    - https://www.loc.gov/item/2021667848/manifest.json seq=8
     - https://iiif.juncture-digital.org/manifest/20f7cbfc53418456af9b9aee1b0586fc0be465b0cc8c54b40eb317da1644a1d4
     - https://iiif.juncture-digital.org/manifest/cca0341b8b0f1cfa47c5c3e7eafbecb76712a7d6da9f80f1d30db4a72b60f5dc
 
