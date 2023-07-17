@@ -1,3 +1,5 @@
+.ve-header "Tamarind: From Shady Refuge to Versatile Foodstuff" subtitle="Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert" wc:Tamarindus_indica03.JPG
+
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
        title="Tamarind: From Shady Refuge to Versatile Foodstuff"
