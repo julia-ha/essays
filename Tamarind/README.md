@@ -1,19 +1,11 @@
 .ve-header "Tamarind: From Shady Refuge to Versatile Foodstuff" subtitle="Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert" wc:Tamarindus_indica03.JPG
 
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-<param ve-config 
-       title="Tamarind: From Shady Refuge to Versatile Foodstuff"
-       eid="" 
-       about="Q80235"
-       author="Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert"
-       banner="https://upload.wikimedia.org/wikipedia/commons/6/6d/Tamarindus_indica03.JPG"
-       layout="vertical">
-<!--banner image: https://commons.wikimedia.org/wiki/File:Tamarindus_indica03.JPG  -->
-
 ### Sturdy Contradictions
-The grand and imposing hard-wood tree _Tamarindus indica_, commonly known as the tamarind tree, has long been a contradictory plant: it is at once a place of refuge and site of danger, a medicinal purgative and a culinary shape-shifter, an ingredient in a thirst-quencher and a drought-tolerant species. And while the tree has been documented across historical and literary genres for millennia, its place of origin remains scientifically obscure. Genetic studies do suggest an African origin, though wood charcoal analysis confirms that the tree has inhabited India since at least 1300 BCE, leading some to argue it is indigenous to the region.[^ref1] The tamarind narrative is rooted in so many singular places, but its global circulation speaks to the plant’s long history and steadfast ability to grow in dry and hot climates. 
-<param ve-compare curtain fit="contain" manifest="https://iiif.juncture-digital.org/manifest/235bbe3728eb9f488121be7394843b7fabb1ea0c574570c617dba6c368f83f74">
-<param ve-compare manifest="https://iiif.juncture-digital.org/manifest/a8303c13b997768ebecefc718a665bd7151e69a2933b1d8cca0d8a1cdd94ef7d">
+The grand and imposing hard-wood tree _Tamarindus indica_, commonly known as the tamarind tree, has long been a contradictory plant: it is at once a place of refuge and site of danger, a medicinal purgative and a culinary shape-shifter, an ingredient in a thirst-quencher and a drought-tolerant species. And while the tree has been documented across historical and literary genres for millennia, its place of origin remains scientifically obscure. Genetic studies do suggest an African origin, though wood charcoal analysis confirms that the tree has inhabited India since at least 1300 BCE, leading some to argue it is indigenous to the region.[^ref1] The tamarind narrative is rooted in so many singular places, but its global circulation speaks to the plant’s long history and steadfast ability to grow in dry and hot climates.
+.ve-media
+    - https://iiif.juncture-digital.org/manifest/235bbe3728eb9f488121be7394843b7fabb1ea0c574570c617dba6c368f83f74
+    - https://iiif.juncture-digital.org/manifest/a8303c13b997768ebecefc718a665bd7151e69a2933b1d8cca0d8a1cdd94ef7d
+
 <param ve-entity eid="Q80235" title="Tamarindus indica">
 {#paragraph1}
 
