@@ -27,7 +27,7 @@ The tamarind tree is a nonendangered semi-evergreen fast-growing species. It is 
 .ve-media https://www.rct.uk/sites/default/files/collection-online/3/b/519410-1424804520.jpg
     - "Tamarind Tree in Saras Baug, Pune, c.1870, albumen print, 18.9 x 24.0 cm, Royal Collection Trust/©Her Majesty Queen Elizabeth II 2020"
 
-Some sources suggest that tamarind was introduced into India, the world’s largest tamarind producer (and then spread to Southeast Asia) from Central Africa by Arab trade groups over land and sea. It is more likely, however, that Ethiopian merchants, who traded with India centuries before the Arabs, brought the plant to India via sea routes, keeping the long-lasting and nutritious tamarind pulp on board ships for food and drink. It is well-documented that the Arabs, perhaps after seeing tamarind thrive in India, traded the plant back to the Middle East and Europe.[^ref8] From Europe, the plant moved west with Spanish and Portuguese settlers, who transported it to Central and South America and the West Indies.
+Some sources suggest that tamarind was introduced into ==India=={Q668}, the world’s largest tamarind producer (and then spread to Southeast Asia) from Central Africa by Arab trade groups over land and sea. It is more likely, however, that Ethiopian merchants, who traded with ==India=={Q668} centuries before the Arabs, brought the plant to ==India=={Q668} via sea routes, keeping the long-lasting and nutritious tamarind pulp on board ships for food and drink. It is well-documented that the Arabs, perhaps after seeing tamarind thrive in ==India=={Q668}, traded the plant back to the Middle East and Europe.[^ref8] From Europe, the plant moved west with Spanish and Portuguese settlers, who transported it to Central and South America and the West Indies.
 <param ve-map 
        time-dimension
        time-interval="-001000/"
@@ -39,15 +39,10 @@ Some sources suggest that tamarind was introduced into India, the world’s larg
        date-format="YYYY"
        fps="1"
 <param ve-map-layer geojson url="Tamarind_map.json">
-<param ve-entity eid="Q668" title="India">
-{#paragraph6}
 
-Today, tamarind orchards are located across India with one of the oldest groves, Nallur Amarai, located just outside of Begaluru. This 54-acre grove and recently declared biodiversity heritage site is believed to have been planted during the Chola dynasty in the twelfth century, though the oldest dated tree is 400 years old. While the plant has been cultivated in orchards and grown as a large-scale crop for commercial purposes, the trees are most frequently referenced in historical literature as singular trees, small ornamental groves (frequently in the shape of bonsai, especially in South Asia), or along roadsides. 
+Today, tamarind orchards are located across India with one of the oldest groves, Nallur Amarai, located just outside of ==Begaluru=={Q1355}. This 54-acre grove and recently declared biodiversity heritage site is believed to have been planted during the ==Chola dynasty=={Q151148} in the twelfth century, though the oldest dated tree is 400 years old. While the plant has been cultivated in orchards and grown as a large-scale crop for commercial purposes, the trees are most frequently referenced in historical literature as singular trees, small ornamental groves (frequently in the shape of ==bonsai=={Q64365}, especially in South Asia), or along roadsides. 
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/235bbe3728eb9f488121be7394843b7fabb1ea0c574570c617dba6c368f83f74">
-<param ve-entity eid="Q1355" title="Bengaluru"> 
-<param ve-entity eid="Q151148" title="Chola dynasty">
-<param ve-entity eid="Q64365" title="bonsai"> 
-{#paragraph7}
+
 
 This is the case for the <span data-mouseover-image-zoomto="1072,3109,1345,1166">tamarind trees</span> featured, in text and image, in the lavishly illustrated late sixteenth-century manuscript _Bãburnãma_ (History of Babur), which details the life of <span eid="Q797848">Emperor Babur</span> (1483–1530), founder of the Mughal dynasty. One of the first autobiographies in Islamic literature, the text was written in the Chagatai language and later translated into Persian for this manuscript at the behest of Babur’s grandson, Emperor Akbar, so that his political and military exploits might be further disseminated. The finely detailed tamarind tree illustration seen here is described as a “very good-looking tree, giving dense shade” that “grows wild in masses,” a depiction supported by the groves of tamarind trees that are referenced throughout Babur’s travels.[^ref9]
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/2cd231179cc6dde76324bd4c966e02e96d24f84328839876784089e2a524b360">
