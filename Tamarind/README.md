@@ -45,10 +45,10 @@ Today, tamarind orchards are located across India with one of the oldest groves,
 
 
 This is the case for the <span data-mouseover-image-zoomto="1072,3109,1345,1166">tamarind trees</span> featured, in text and image, in the lavishly illustrated late sixteenth-century manuscript ==_Bãburnãma_=={Q1906014} (History of Babur), which details the life of ==Emperor Babur=={Q797848} (1483–1530), founder of the ==Mughal=={Q33296} dynasty. One of the first autobiographies in Islamic literature, the text was written in the Chagatai language and later translated into Persian for this manuscript at the behest of Babur’s grandson, Emperor Akbar, so that his political and military exploits might be further disseminated. The finely detailed tamarind tree illustration seen here is described as a “very good-looking tree, giving dense shade” that “grows wild in masses,” a depiction supported by the groves of tamarind trees that are referenced throughout Babur’s travels.[^ref9]
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/2cd231179cc6dde76324bd4c966e02e96d24f84328839876784089e2a524b360">
+.ve-media https://iiif.juncture-digital.org/manifest/2cd231179cc6dde76324bd4c966e02e96d24f84328839876784089e2a524b360
 
 As one of the largest trees in India, tamarinds have been incorporated into garden designs as a source of shade since the Mughal dynasty. Rooted in Persian traditions, ==Mughal gardens=={Q2429892}, called _charbaghs_ (fourfold gardens), were characterized by ornate fountains and water systems.[^ref10] The tamarind tree was often found in gardens like those built in ==Lahore=={Q11739} by Emperor Babur’s son, ==Kamran Mirza=={Q12419221}. Centuries later, during British colonial rule of the Indian subcontinent, tamarind trees were used in gardens and along roadsides by high-ranking officers. At the turn of the nineteenth century, though his plans were never realized, ==Governor-General of India Lord Wellesley=={Q335205} attempted to line a section of the Great Trunk Road from a palace in Barrackpore to the Government House in Calcutta, with tamarind, mango, peepul, and teak trees.[^ref11]
-.ve-media
+.ve-media grid
     - https://iiif.juncture-digital.org/manifest/5c735396574ddd0e323d705d2e684148e2774cba754ff2d9306aa30bff5f5bbc
     - https://iiif.juncture-digital.org/manifest/88c34809e373bf709f2a11b102e2688e6a26536273dbd7868bd587921609b49c
 
