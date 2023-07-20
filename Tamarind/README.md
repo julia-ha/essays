@@ -161,8 +161,7 @@ Tamil writer Sundara Ramaswamy’s 1966 novel [_Oru Puliyamarathin Kadai_ (Tamar
 {#paragraph24}
 
 Interestingly, tamarind has also been the source of the material on which stories are literally written. In his important text [_The materia medica of the Hindus_](https://archive.org/details/b21934113/page/40/mode/2up)(1877), Uday Chand Dutt includes accounts of how some of the manuscripts he referenced to compile his own text were made from tamarind-seed emulsions: the emulsions were used to make paper providing a surface for easy writing. Perhaps it is no surprise that such an eminently useful plant would help inspire stories as well as serve the purpose of recording narratives, recipes, and histories of which it so often played an important, and ubiquitous, role. The tamarind continues to be a sturdy contradiction even into the present, as we continue to learn from the plant’s many complexities. 
-<param ve-image fit="fill" manifest="https://iiif.juncture-digital.org/manifest/bf29a6c6d352712864793fddc9038c9b83f94ce87d0eded94131cc6776568b7e">
-{#paragraph25}
+.ve-media https://iiif.juncture-digital.org/manifest/bf29a6c6d352712864793fddc9038c9b83f94ce87d0eded94131cc6776568b7e
 
 ### References
 [^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources,” _African Journal of Biotechnology_ 7, no 22 (2008): 4068–4075.
