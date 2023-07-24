@@ -83,15 +83,13 @@ Fifteen-inch tall redware jars like the one housed at the ==[Strawbery Banke Mus
 
 ### Pulp
 Tamarind pulp makes up roughly 30 to 50 percent of a ripe fruit.[^ref24] The pods are picked at various stages in the fruit’s life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, and is used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes.[^ref25] The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, drinks, and in a variety of street foods, such as golgappa, pani puri, and phuchka in northern and eastern India.[^ref26]
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/512c6cd3179d976a07c9c3e033623fc6ae3dec6e9e443d2d4d2275e021307d78">
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/db22a69a556e9b4ff4754a69ddc4b6cb79bdf25173da0285143e85b67c03ebc6">
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/5670c3346ca9e756b6ad13fa1a6788f213cce36bc49675afcbea16405707cf74">
-{#paragraph17}
+.ve-media grid
+    - https://iiif.juncture-digital.org/manifest/512c6cd3179d976a07c9c3e033623fc6ae3dec6e9e443d2d4d2275e021307d78
+    - https://iiif.juncture-digital.org/manifest/db22a69a556e9b4ff4754a69ddc4b6cb79bdf25173da0285143e85b67c03ebc6
+    - https://iiif.juncture-digital.org/manifest/5670c3346ca9e756b6ad13fa1a6788f213cce36bc49675afcbea16405707cf74
 
-Tamarind water is an immensely popular drink, both soothing and cooling, and is offered in restaurants and sold in markets, in the hot climates of Central America, Southeast Asia, and Africa. In north India, tamarind water infused with cumin, pepper, and other spices is a popular summer beverage known as jal jeera. Made by adding tamarind pulp to water and sweetened, tamarind water is easy to make at home—a quick YouTube search reveals dozens of how-to videos for making it.  
-<param ve-video id="pXtKAmhKdpI">
-<param ve-entity eid="Q6125787" title="Jal-jeera" aliases="jal jeera"> 
-{#paragraph18}
+Tamarind water is an immensely popular drink, both soothing and cooling, and is offered in restaurants and sold in markets, in the hot climates of Central America, Southeast Asia, and Africa. In north India, tamarind water infused with cumin, pepper, and other spices is a popular summer beverage known as ==jal jeera=={Q6125787}. Made by adding tamarind pulp to water and sweetened, tamarind water is easy to make at home—a quick YouTube search reveals dozens of how-to videos for making it.  
+.ve-video https://www.youtube.com/watch?v=pXtKAmhKdpI
       
 Tamarind water has been around since at least the late medieval period as an enjoyable beverage and a medicinal drink. <span eid="Q6101">Marco Polo,</span> in his travel accounts, observes merchants being “force[d]...to swallow a stuff called _Tamarindi_, mixed in sea-water” that results in “violent purging.”[^ref27] A few centuries later, <span eid="Q256288">John Parkinson,</span> apothecary to James I and Royal Botanist to Charles I, writes of tamarind in his [_Theatrum botanicum_](https://www.biodiversitylibrary.org/page/56600139) (1640): “it doth exceedingly helpe to assuage the thirst, if an ounce there-of be dissolved in faire water, and a little Sugar mixed therewith.” Parkinson notes that the drink is a particularly suitable thirst-quencher for “people of the hot countries.”
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/53bbeeb92b729232e4084076134b381f95adf1ca6680aa9cf36f2cdcb135d499">
