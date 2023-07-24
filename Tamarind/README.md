@@ -41,7 +41,7 @@ Some sources suggest that tamarind was introduced into ==India=={Q668}, the worl
 <param ve-map-layer geojson url="Tamarind_map.json">
 
 Today, tamarind orchards are located across India with one of the oldest groves, Nallur Amarai, located just outside of ==Begaluru=={Q1355}. This 54-acre grove and recently declared biodiversity heritage site is believed to have been planted during the ==Chola dynasty=={Q151148} in the twelfth century, though the oldest dated tree is 400 years old. While the plant has been cultivated in orchards and grown as a large-scale crop for commercial purposes, the trees are most frequently referenced in historical literature as singular trees, small ornamental groves (frequently in the shape of ==bonsai=={Q64365}, especially in South Asia), or along roadsides. 
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/235bbe3728eb9f488121be7394843b7fabb1ea0c574570c617dba6c368f83f74">
+.ve-media https://iiif.juncture-digital.org/manifest/235bbe3728eb9f488121be7394843b7fabb1ea0c574570c617dba6c368f83f74
 
 
 This is the case for the <span data-mouseover-image-zoomto="1072,3109,1345,1166">tamarind trees</span> featured, in text and image, in the lavishly illustrated late sixteenth-century manuscript ==_Bãburnãma_=={Q1906014} (History of Babur), which details the life of ==Emperor Babur=={Q797848} (1483–1530), founder of the ==Mughal=={Q33296} dynasty. One of the first autobiographies in Islamic literature, the text was written in the Chagatai language and later translated into Persian for this manuscript at the behest of Babur’s grandson, Emperor Akbar, so that his political and military exploits might be further disseminated. The finely detailed tamarind tree illustration seen here is described as a “very good-looking tree, giving dense shade” that “grows wild in masses,” a depiction supported by the groves of tamarind trees that are referenced throughout Babur’s travels.[^ref9]
@@ -59,6 +59,7 @@ Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and 
 Tamarind is mentioned in traditional Sanskrit literature and traditional African medical texts like the [_Kitab al-qawl al-sinna_.](http://www.cci.uct.ac.za/usr/cci/publications/aria/download_issues/2012/Mukhtar%20Bunza.pdf) It also appears in the _Susruta-Samhita_, an Ayurvedic medicine text. With such a diverse array of uses—and its hearty ability to withstand hot, dry climates—the plant captured the imagination of colonists on the hunt for profitable crops. The well-known synonym _T. occidentalis_, for example, was included in physician and horticulturalist Henry Perrine’s 1838 report to the U.S. Congress House Committee on Agriculture, in which he includes _T. occidentalis_ as a notable crop of value.
 <param ve-entity eid="Q1995239" title="Susruta-Samhita">
 <param ve-entity eid="Q4268924" title="Henry Perrine" aliases="Henry Perrine’s">
+.ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1N898HvO8a50-MMGVxGCR-MGbd6ftuk7b&font=Default&lang=en&initial_zoom=1&height=750
 <param ve-knightlab-timeline source="1N898HvO8a50-MMGVxGCR-MGbd6ftuk7b&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
 {#paragraph11}
 
