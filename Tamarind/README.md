@@ -7,20 +7,30 @@ The grand and imposing hard-wood tree ==_Tamarindus indica_=={Q80235}, commonly 
     - https://iiif.juncture-digital.org/manifest/a8303c13b997768ebecefc718a665bd7151e69a2933b1d8cca0d8a1cdd94ef7d
 
 Such contradictions have been explored through storytelling: the tree serves as creative inspiration, thematic motif, and simple theatrical site across myth, legend, and fiction.[^ref2] The tamarind got its small leaves, according to a ==Bihar=={Q1165}tribal story, when the exiled ==Lord Rama=={Q160213}, ==Lakshmana=={Q917687}, and ==Sita=={Q191114} came upon a tamarind grove, where the tree’s large leaves provided shelter. But ==Rama=={Q160213} was convinced that they were meant to suffer during their exile and so he ordered ==Lakshmana=={Q917687} to shoot at the leaves with his bow and arrow—the leaves have been split ever since.[^ref3]
-.ve-media gh:JSTOR-Labs/plant-humanities/tamarind/tamarind_leaves_Flicker_CC_BY_SA_2.0.png region=1,64,823,749 caption="Tamarind leaves, 2010. Jyothish Kumar P.G, Flickr, CC BY-SA 2.0."
+.ve-media gh:JSTOR-Labs/plant-humanities/tamarind/tamarind_leaves_Flicker_CC_BY_SA_2.0.png region=1,64,823,749 caption="Tamarind leaves, 2010. Jyothish Kumar P.G, Flickr, CC BY-SA 2.0." left
 
 Though many cultures venerate the tree as sacred or home to gods, some purport the tree’s curses and dangers; some Indian and Caribbean communities warn that the tamarind is home to spirits. A ==Hindu=={Q9089} legend illustrates how the tree became cursed: one day, ==Radha=={Q113904}, goddess of love and compassion, was on her way to meet ==Krishna=={Q42891} when she stepped on a piece of ripe tamarind fruit bark and cut her foot. Now late for her meeting with the god, she cursed the fruit to fall from the tree still unripe, as it does today.[^ref4] The sheer pervasiveness of the plant in visual, oral, and written cultures across the globe speaks to its mythological status as both sprawling and rooted, exemplifying the sturdy contradiction that is the tamarind tree.
 .ve-media grid
     - https://collectionapi.metmuseum.org/api/collection/v1/iiif/74846/155579/main-image
     - https://collectionapi.metmuseum.org/api/collection/v1/iiif/38027/191266/main-image
     - https://collectionapi.metmuseum.org/api/collection/v1/iiif/37911/150889/main-image
-<param ve-image fit="contain" label="Krishna Woos Radha, “Boston” Rasikapriya (Lover’s Breviary), c. 1610, India (Rajasthan, Amber), ink, opaque watercolor, and gold on paper, 21.6 × 13 cm (image)." attribution="Rogers Fund, 1918, Metropolitan Museum of Art" license="public domain" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/74846/155579/main-image">
-<param ve-image fit="contain" label="Kama Aims His Bow at Radha, Gita Govinda, c. 1665, India (Rajasthan, Mewar), ink and opaque watercolor on paper, 24.4 × 19.7 cm." attribution="Gift of Ernest Erickson Foundation, 1988, Metropolitan Museum of Art" license="public domain" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/38027/191266/main-image">
-<param ve-image fit="contain" label="Krishna Woos Radha, Gita Govinda (Loves of Krishna), c. 1695, India (Rajasthan, Mewar), ink and opaque watercolor on paper, 18.4 x 28.9 cm." attribution="Gift of Jeffrey Paley, 1975, Metropolitan Museum of Art" license="public domain" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/37911/150889/main-image">
 
 ### A Tree of Many Names
 From a taxonomic point of view, _Tamarindus indica_, first described as such by ==Carl Linnaeus=={Q1043} in ==[_Species Plantarum_](https://www.biodiversitylibrary.org/page/26067986)=={Q849308} (1753), is considered the only ==species=={Q7432} of the _Tamarindus_ ==genus=={Q34740} and a member of the Fabaceae family. This has not always been the ==species’=={Q7432} name, however, as earlier scientific practitioners labeled the tree with taxonomic synonyms because they believed the ==genus=={Q34740} to contain different species. Over the course of the seventeenth and eighteenth centuries, _T. indica_ acquired six synonyms, with _Tamarindus occidentalis_ Gaertn., or the “West Indian species,” recurring most often in the botanical literature. The tamarind tree also has garnered a host of colloquial names across the globe.[^ref5] _T. indica_ derives from the Arabic _tamar-al-hindi_, or the date of India, so named after tamarind pulp’s date-like color and texture, which is similar to the Ethiopian vernacular for tamarind, _tommar_. 
-<param ve-d3plus-ring-network url="Book1_Tamarindus_countries.tsv" center="Tamarindus indica L. (1753)">
+.ve-mermaid
+    erDiagram
+        CAR ||--o{ Tamarindus indica L. (1753) : allows
+        CAR {
+            string registrationNumber
+            string make
+            string model
+        }
+        PERSON ||--o{ NAMED-DRIVER : is
+        PERSON {
+            string firstName
+            string lastName
+            int age
+        }
 
 ### The Tamarind’s Locale 
 The tamarind tree is a nonendangered semi-evergreen fast-growing species. It is best suited to those regions characterized by seasonal dry forests, tropical seasonal forests, and savanna ==biomes=={Q101998}.[^ref6] These ==biomes’=={Q101998} climates feature slightly strong thermal oscillation and concentrated rains during specific times of the year, resulting in water stress for plants during the dry season. As a drought-resistant tree, tamarind has the capacity to grow in poorly developed soils through nitrogen fixation, a feature shared by all species from the ==Fabaceae=={Q44448} family. In addition, it can endure aerosol salt from windy coastal areas and sequesters carbon. For these reasons, it’s not surprising that tamarind can be found in 54 countries along the plant’s historical circulation routes. In the ==Sahelian=={Q106474492} region and many other parts of Africa, tamarind fruits collected from natural populations or individual trees are essential components of the nonmonetized hidden harvest of wild resources. The assessment of the economic importance of the tamarind fruits’ hidden harvest requires estimating how much local populations would have to pay to replace these free resources.[^ref7] As such, tamarind acts as an enhancer of ==agroforestry=={Q397350} for small farmers and landless laborers in semi-arid areas in danger of ==desertification=={Q183481}.
