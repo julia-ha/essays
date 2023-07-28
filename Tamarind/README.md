@@ -18,19 +18,17 @@ Though many cultures venerate the tree as sacred or home to gods, some purport t
 ### A Tree of Many Names
 From a taxonomic point of view, _Tamarindus indica_, first described as such by ==Carl Linnaeus=={Q1043} in ==[_Species Plantarum_](https://www.biodiversitylibrary.org/page/26067986)=={Q849308} (1753), is considered the only ==species=={Q7432} of the _Tamarindus_ ==genus=={Q34740} and a member of the Fabaceae family. This has not always been the ==species’=={Q7432} name, however, as earlier scientific practitioners labeled the tree with taxonomic synonyms because they believed the ==genus=={Q34740} to contain different species. Over the course of the seventeenth and eighteenth centuries, _T. indica_ acquired six synonyms, with _Tamarindus occidentalis_ Gaertn., or the “West Indian species,” recurring most often in the botanical literature. The tamarind tree also has garnered a host of colloquial names across the globe.[^ref5] _T. indica_ derives from the Arabic _tamar-al-hindi_, or the date of India, so named after tamarind pulp’s date-like color and texture, which is similar to the Ethiopian vernacular for tamarind, _tommar_. 
 .ve-mermaid
-    erDiagram
-        CAR ||--o{ Tamarindus indica L. (1753) : allows
-        CAR {
-            string registrationNumber
-            string make
-            string model
-        }
-        PERSON ||--o{ NAMED-DRIVER : is
-        PERSON {
-            string firstName
-            string lastName
-            int age
-        }
+    flowchart TB
+        A["Tamarindus indica L. (1753)"] --> C["TAXONOMIC SYNONYMS"]
+        A --> B["VERNACULARS"]
+        B --> D["Hamer (Saudi Arabia)"]
+        B --> E["Tamarindo (Spanish speaking countries)"]
+        B --> F["Manhan (China)"]
+        B --> G["Amli (Fiji)"]
+        B --> H["Makham (Thailand)"]
+        C --> Z["Tamarindus occidentalis Gaertn. (1791)"]
+        C --> Y["Tamarindus umbrosa Salisb. (1796)"]
+        C --> X["Tamarindus officinalis Hook. (1851)"]
 
 ### The Tamarind’s Locale 
 The tamarind tree is a nonendangered semi-evergreen fast-growing species. It is best suited to those regions characterized by seasonal dry forests, tropical seasonal forests, and savanna ==biomes=={Q101998}.[^ref6] These ==biomes’=={Q101998} climates feature slightly strong thermal oscillation and concentrated rains during specific times of the year, resulting in water stress for plants during the dry season. As a drought-resistant tree, tamarind has the capacity to grow in poorly developed soils through nitrogen fixation, a feature shared by all species from the ==Fabaceae=={Q44448} family. In addition, it can endure aerosol salt from windy coastal areas and sequesters carbon. For these reasons, it’s not surprising that tamarind can be found in 54 countries along the plant’s historical circulation routes. In the ==Sahelian=={Q106474492} region and many other parts of Africa, tamarind fruits collected from natural populations or individual trees are essential components of the nonmonetized hidden harvest of wild resources. The assessment of the economic importance of the tamarind fruits’ hidden harvest requires estimating how much local populations would have to pay to replace these free resources.[^ref7] As such, tamarind acts as an enhancer of ==agroforestry=={Q397350} for small farmers and landless laborers in semi-arid areas in danger of ==desertification=={Q183481}.
