@@ -28,17 +28,8 @@ The tamarind tree is a nonendangered semi-evergreen fast-growing species. It is 
     - "Tamarind Tree in Saras Baug, Pune, c.1870, albumen print, 18.9 x 24.0 cm, Royal Collection Trust/©Her Majesty Queen Elizabeth II 2020"
 
 Some sources suggest that tamarind was introduced into ==India=={Q668}, the world’s largest tamarind producer (and then spread to Southeast Asia) from Central Africa by Arab trade groups over land and sea. It is more likely, however, that Ethiopian merchants, who traded with ==India=={Q668} centuries before the Arabs, brought the plant to ==India=={Q668} via sea routes, keeping the long-lasting and nutritious tamarind pulp on board ships for food and drink. It is well-documented that the Arabs, perhaps after seeing tamarind thrive in ==India=={Q668}, traded the plant back to the Middle East and Europe.[^ref8] From Europe, the plant moved west with Spanish and Portuguese settlers, who transported it to Central and South America and the West Indies.
-<param ve-map 
-       time-dimension
-       time-interval="-001000/"
-       duration="P10000Y"
-       basemap="Esri_WorldGrayCanvas"
-       auto-play="true"
-       zoom="2"
-       max-zoom="4"
-       date-format="YYYY"
-       fps="1"
-<param ve-map-layer geojson url="Tamarind_map.json">
+.ve-map 2
+    - geojson=Tamarind_map.json
 
 Today, tamarind orchards are located across India with one of the oldest groves, Nallur Amarai, located just outside of ==Begaluru=={Q1355}. This 54-acre grove and recently declared biodiversity heritage site is believed to have been planted during the ==Chola dynasty=={Q151148} in the twelfth century, though the oldest dated tree is 400 years old. While the plant has been cultivated in orchards and grown as a large-scale crop for commercial purposes, the trees are most frequently referenced in historical literature as singular trees, small ornamental groves (frequently in the shape of ==bonsai=={Q64365}, especially in South Asia), or along roadsides. 
 .ve-media https://iiif.juncture-digital.org/manifest/235bbe3728eb9f488121be7394843b7fabb1ea0c574570c617dba6c368f83f74
