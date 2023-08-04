@@ -81,7 +81,7 @@ Fifteen-inch tall redware jars like the one housed at the ==[Strawbery Banke Mus
 
 ### Pulp
 Tamarind pulp makes up roughly 30 to 50 percent of a ripe fruit.[^ref24] The pods are picked at various stages in the fruit’s life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, and is used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes.[^ref25] The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, drinks, and in a variety of street foods, such as golgappa, pani puri, and phuchka in northern and eastern India.[^ref26]
-.ve-media grid
+.ve-media cards
     - https://iiif.juncture-digital.org/manifest/512c6cd3179d976a07c9c3e033623fc6ae3dec6e9e443d2d4d2275e021307d78
     - https://iiif.juncture-digital.org/manifest/db22a69a556e9b4ff4754a69ddc4b6cb79bdf25173da0285143e85b67c03ebc6
     - https://iiif.juncture-digital.org/manifest/5670c3346ca9e756b6ad13fa1a6788f213cce36bc49675afcbea16405707cf74
@@ -113,7 +113,7 @@ Tamil writer ==Sundara Ramaswamy’s=={Q2893448} 1966 novel [_Oru Puliyamarathin
 .ve-image https://ids.si.edu/ids/manifest/CHSDM-37ED16A7EC7B2-000001 region=200,691,4057,3488 label="Frederic Edwin Church, Indian Tamarind Trees in Jamaica, 1865, graphite on green-gray wove paper, 26.2 x 25.4 cm (sheet)." attribution="Cooper Hewitt, Smithsonian Design Museum"
 
 Interestingly, tamarind has also been the source of the material on which stories are literally written. In his important text [_The materia medica of the Hindus_](https://archive.org/details/b21934113/page/40/mode/2up)(1877), Uday Chand Dutt includes accounts of how some of the manuscripts he referenced to compile his own text were made from tamarind-seed emulsions: the emulsions were used to make paper providing a surface for easy writing. Perhaps it is no surprise that such an eminently useful plant would help inspire stories as well as serve the purpose of recording narratives, recipes, and histories of which it so often played an important, and ubiquitous, role. The tamarind continues to be a sturdy contradiction even into the present, as we continue to learn from the plant’s many complexities. 
-.ve-media https://iiif.juncture-digital.org/manifest/bf29a6c6d352712864793fddc9038c9b83f94ce87d0eded94131cc6776568b7e
+.ve-media https://iiif.juncture-digital.org/manifest/bf29a6c6d352712864793fddc9038c9b83f94ce87d0eded94131cc6776568b7e right
 
 ### References
 [^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources,” _African Journal of Biotechnology_ 7, no 22 (2008): 4068–4075.
